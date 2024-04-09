@@ -19,7 +19,15 @@
 ![슬라이드16](https://github.com/minhooooo/ux/assets/80433455/77079bae-817c-407c-ba58-fe42e3af9b23)
 ![슬라이드17](https://github.com/minhooooo/ux/assets/80433455/53f45462-b181-44ac-94af-6e4c855e92ae)
 ![슬라이드18](https://github.com/minhooooo/ux/assets/80433455/8a050fac-5dae-4863-a6ce-2adf6e0163fe)
-<br><br>
+<br><br><br>
+
+## 📌 주요 기능
+- [x] 팀별 단체채팅방 생성 및 그룹채팅 기능 제공 
+- [x] 개인별 스케줄 등록
+- [x] 개인 스케줄을 고려한 팀별 추천 모임 시간 제공
+- [x] 모임시간 별 찬반 투표를 진행하여 가장 높은 우선순위를 가진 모임시간 선정
+- [x] 자신의 개별 스케줄에 선정된 모임시간 자동 등록
+<br><br><br>
 
 ## ⏰ 프로젝트 기간
 2023.09.13 ~ 2023.12.06
@@ -30,6 +38,11 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
+<br><br><br>
+
+## 👩🏻‍💻 배운 점
+- [x] `Figma`로 각 화면별 디자인을 제작해보며 사용자에게 적합한 UI/UX 기능에 대해 생각했습니다.
+- [x] 채팅 기능을 개발하면서 `Firebase`를 활용하여 어떻게 그룹 채팅 기능을 만들어나갈지 고민했습니다.
 <br><br><br>
 
 ## 💡 시연 영상
